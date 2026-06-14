@@ -39,7 +39,16 @@
 
 <br>
 <img src="https://img.shields.io/badge/MAIN_FOCUS-PREDICTIVE_MODELING-green?style=for-the-badge&logo=scikit-learn&labelColor=grey" alt="Main Focus AI"/>
+<br>
+<br>
+<h3 align="center" style="color: #adbac7; font-weight: bold;">🏆 Competitive Programming Profiles</h3>
 
+| <a href="https://codeforces.com/profile/LALAT" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="50" height="50" style="filter: invert(41%) sepia(83%) saturate(3506%) hue-rotate(191deg) brightness(93%) contrast(92%);" /></a><br><sub><b>Codeforces</b></sub> | <a href="https://leetcode.com/u/LALAT123/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="50" height="50" style="filter: invert(65%) sepia(85%) saturate(543%) hue-rotate(352deg) brightness(101%) contrast(102%);" /></a><br><sub><b>LeetCode</b></sub> | <a href="https://www.codechef.com/users/lalat25" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="50" height="50" style="filter: invert(49%) sepia(35%) saturate(836%) hue-rotate(331deg) brightness(88%) contrast(89%);" /></a><br><sub><b>CodeChef</b></sub> |
+| :---: | :---: | :---: |
+<br>
+<img src="https://img.shields.io/badge/MAIN_FOCUS-PROBLEM_SOLVING-green?style=for-the-badge&logo=codeforces&labelColor=grey" alt="Main Focus Problem Solving"/>
+<br><br>
+<br><br>
 ---
 
 ## 🌐 Socials:
