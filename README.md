@@ -1,5 +1,5 @@
 <div align="center">
-<h3 align="center" style="color: #adbac7; font-weight: bold;">💫 About Me:</h3>
+<h2 align="center" style="color: #adbac7; font-weight: bold;">💫 About Me:</h2>
 <div align="left" style="display: inline-block; text-align: left;">
   
 * 🔭 **I’m currently working on** upgrading my web applications, specifically optimizing my Streamlit/Flask predictive tools and expanding my Segment Tree Visualizer.<br>
