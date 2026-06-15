@@ -60,8 +60,6 @@
 
 ![](https://streak-stats.demolab.com/?user=Lalat123&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lalat123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
 </div>
